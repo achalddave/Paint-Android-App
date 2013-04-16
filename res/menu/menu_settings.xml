@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 
+    <item android:id="@+id/brush"
+          android:title="@string/brush"
+          android:showAsAction="always" />
+    <item android:id="@+id/shapes"
+          android:title="@string/shapes"
+          android:showAsAction="always" />
+    <item android:id="@+id/eraser"
+          android:title="@string/eraser"
+          android:showAsAction="always" />
+          -->
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="brush">Brush</string>
+    <string name="shapes">Shapes</string>
+    <string name="eraser">Eraser</string>
+
+    <color name="popup_menu_btns">#555555</color>
+    <color name="popup_menu_bg">#cc555555</color>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_brush_fragment">BrushFragment</string>
+    <string name="title_activity_eraser_fragment">EraserFragment</string>
+    <string name="title_activity_shapes_fragment">ShapesFragment</string>
+    <string name="brush_size">Brush Size</string>
+    <string name="eraser_size">Eraser Size</string>
+    <string name="clear">Clear</string>
+
+</resources>
